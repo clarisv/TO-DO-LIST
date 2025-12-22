@@ -19,10 +19,6 @@ Um aplicativo de gerenciamento de tarefas desenvolvido em **Python** com uma int
 
 ## 📸 Como ficou o visual
 > [!IMPORTANT]
-> **Dica:** Agora que o design está lindo, tire aquele print da tela e substitua o link abaixo!
-> `![Checklist Moderno](screenshot-checklist.png)`
+><img width="389" height="619" alt="image" src="https://github.com/user-attachments/assets/f361c52a-139f-4dec-86dc-56db8582dcfc" />
 
-## 🚀 Como testar
-1. Baixe o arquivo `LISTA-TAREFAS.py`.
-2. Execute no seu terminal: `python LISTA-TAREFAS.py`.
-3. O arquivo `tarefas.txt` será criado automaticamente na primeira vez que você adicionar uma meta.
+
